@@ -1,1 +1,1 @@
-this is my first git session
+this is my first modified git session
